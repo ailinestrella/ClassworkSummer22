@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Boxes</title>
+</head>
+<body>
+    <h1>Ailin's Boxes</h1>
+    <div class="group group1">
+        <div class="big-box" style="background-color: rgb(20, 15, 20); height: 95px; width: 95px; padding: 35px;">
+
+            <div class="little-box" style="background-color:rgb(58, 58, 79); height: 90px; width: 95px;">
+
+            </div>
+        </div>
+    </div>
+    <div class="group group2">
+        <div class="big-box" style="background-color: rgb(37, 34, 57); height: 90px; width: 100px; padding-left: 100px; padding-right: 100px;">
+
+            <div class="little-box" style="background-color:rgb(193, 193, 193); height: 100px; width: 100px;">
+
+            </div>
+        </div>
+    </div>
+    <div class="group group3">
+        <div class="big-box" style="background-color: rgb(19, 18, 24); height: 100px; width: 100px; padding-top: 100px; padding-bottom: 100px;">
+
+            <div class="little-box" style="background-color:antiquewhite; height: 100px; width: 110px; border: 5px solid black;">
+
+            </div>
+        </div>
+    </div>
+    <div class="group group4">
+        <div class="big-box" style="background-color: rgb(39, 36, 39); height: 100px; width: 100px; padding-right: 50px; padding-bottom: 50px;">
+
+            <div class="little-box" style="background-color:rgb(103, 101, 99); height: 75px; width: 75px;">
+
+            </div>
+        </div>
+    </div>
+    <div class="group group5">
+        <div class="big-box" style="background-color: rgb(91, 89, 91); height: 95px; width: 95px; padding-left: 48px; padding-top: 48px;">
+
+            <div class="little-box" style="background-color:rgb(241, 241, 241); height: 95px; width: 95px; border: 9px solid rgb(55, 54, 54)">
+
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="group group6">
+        <div class="big-box" style="background-color: rgb(0, 0, 0); height: 95px; width: 95px; padding-top: 48px;">
+
+            <div class="little-box" style="background-color:rgb(107, 75, 34); height: 95px; width: 95px; border: 8px solid rgb(50, 48, 48)">
+
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="group group7">
+        <div class="big-box" style="background-color: grey; height: 95px; width: 95px; padding-top: 18px; padding-right: 13px; padding-left: 68px; padding-bottom: 48px;">
+
+            <div class="little-box" style="background-color:rgb(170, 169, 168); height: 72px; width: 72px; border: 8px solid rgb(63, 61, 61)">
+
+            </div>
+        </div>
+    </div>
+    <div class="group group8">
+        <div class="big-box" style="background-color: black; height: 95px; width: 95px; padding-left: 78px; padding-top: 78px;">
+
+            <div class="little-box" style="background-color:darkgrey te; height: 78px; width: 78px; border: 8px solid rgb(67, 64, 64)">
+            </div>
+        </div>
+    </div>
+</body>
+</hmtl>
