@@ -1,0 +1,15 @@
+.big box, .little-box {
+    width: 90px;
+    height: 95px;
+
+}
+
+.big-box {
+    background-color: rgb(51, 51, 124); 
+    padding: 25px;
+
+}
+
+.little-box {
+    background-color: rgb(84, 81, 81);
+}
